@@ -1,1 +1,1 @@
-# xmrig
+# verus
